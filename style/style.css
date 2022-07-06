@@ -215,6 +215,10 @@ p {
     margin: 40px 10px auto;
     max-width: 300px;
   }
+  .social-link {
+    font-size: 13px;
+    padding: 15px;
+  }
 }
 @media (max-width: 1200px) {
   .navbar-navigation {
