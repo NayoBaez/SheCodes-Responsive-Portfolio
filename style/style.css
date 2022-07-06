@@ -13,7 +13,8 @@ body {
 }
 
 h1,
-h2 {
+h2,
+h5 {
   font-family: var(--heading-font-family);
 }
 p {
@@ -67,6 +68,12 @@ p {
 .profile-nayo {
   max-width: 400px;
   margin-left: 50px;
+}
+
+.arrow {
+  width: 120px;
+  display: block;
+  margin: 0 auto;
 }
 
 .contact-button {
