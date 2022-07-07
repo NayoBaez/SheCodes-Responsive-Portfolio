@@ -234,9 +234,15 @@ p {
     font-size: 13px;
     padding: 15px;
   }
+  .contact-info {
+    text-align: center;
+  }
 }
 @media (max-width: 1200px) {
   .navbar-navigation {
     margin: 20px 0px 0;
+  }
+  .contact-info {
+    text-align: center;
   }
 }
