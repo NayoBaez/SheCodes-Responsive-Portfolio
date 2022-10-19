@@ -190,7 +190,8 @@ p {
 }
 
 @media (max-width: 576px) {
-  .row-weather {
+  .row-weather,
+  .row-dictionary {
     display: flex;
     flex-flow: column-reverse;
   }
