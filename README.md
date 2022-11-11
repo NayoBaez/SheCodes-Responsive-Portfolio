@@ -3,6 +3,9 @@
 # MY PORTFOLIO
 
 I built this portfolio as the final project of the Shecodes Responsive course. During this course we learned how develop Figma designs into real life websites with advanced Bootstrap (Navigation, Utility Classes, etc.), Flexbox, Multiple Page Hosting, Media Queries, and more. 
+
+<img align="right" alt="portfolio" width="350" src="https://raw.githubusercontent.com/NayoBaez/SheCodes-Responsive-Portfolio/main/SCREENSHOT%20PORTFOLIO%20FOOTER.png"></img>
+
 ## Tech Stack
 
 HTML, CSS & Bootstrap  
