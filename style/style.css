@@ -1,5 +1,5 @@
 .page-container {
-  margin: 50px auto;
+  margin: 0 auto;
   max-width: 1000px;
 }
 
@@ -76,6 +76,7 @@ p {
 
 .about-section {
   padding: 160px 30px;
+  background: var(--background-color);
 }
 
 .about-section h1 {
